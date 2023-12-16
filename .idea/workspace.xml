@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7c7925-0956-452e-ba75-cc52849a7c22" name="Changes" comment=",f,f" />
+    <list default="true" id="0d7c7925-0956-452e-ba75-cc52849a7c22" name="Changes" comment=",f,f">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/site.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/site2.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="masters" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701616749422</updated>
       <workItem from="1702734632641" duration="553000" />
+      <workItem from="1702747923340" duration="726000" />
     </task>
     <task id="LOCAL-00001" summary=",f,f">
       <option name="closed" value="true" />
