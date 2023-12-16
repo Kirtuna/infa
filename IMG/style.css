@@ -1,11 +1,17 @@
-   body{
+   .b{
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             color: #FAEBD7;
-            background-image: url(bg5.png);
+            background-image: url(images/bg5.png);
             background-size: cover;
 
+}
+
+.b4 {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(83, 155, 252, 1) 0%, rgba(104, 187, 255, 1) 45%, rgba(162, 246, 255, 1) 100%);
 }
    nav{
     text-align: center;
@@ -24,6 +30,10 @@
    .headers{
             text-align: center;
 
+   }
+   p{
+       font-family: Calibri ,serif;
+       font-size: 25px;
    }
    .footer{
             text-align: center;
@@ -59,7 +69,7 @@
 padding: 10px;
 }
 .img{
-            background-image: url(bg1.jpg);
+            background-image: url(images/bg1.jpg);
             background-repeat: no-repeat;
             width: 2000px;
             height: 2000px;
@@ -69,6 +79,7 @@ padding: 10px;
 .con{
     background-color: white;
     color: black;
+    font-family: Cairo ,serif;
     margin-left: 20%;
     margin-right: 20%;
     padding-left: 2%;
