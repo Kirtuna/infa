@@ -74,30 +74,8 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="68c044c6-2462-454f-a355-671a4c19a94c" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="68c044c6-2462-454f-a355-671a4c19a94c">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -120,7 +98,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=",f,f" />
-    <MESSAGE value="Hui" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hui" />
+    <option name="LAST_COMMIT_MESSAGE" value=",f,f" />
   </component>
 </project>
