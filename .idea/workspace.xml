@@ -13,7 +13,6 @@
       <change beforePath="$PROJECT_DIR$/IMG/site2.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IMG/site4.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IMG/site5.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702825579641</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Table is add">
+      <option name="closed" value="true" />
+      <created>1702826694630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702826694630</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
