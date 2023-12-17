@@ -24,4 +24,25 @@ th{
     font-family: Calibri, serif;
     font-size: 50px;
     color: black;
+    background-color: #e9e9eb;
+}
+td{
+    color: black;
+    font-family: Calibri,serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    margin-top: 1px;
+}
+.yandex{
+    color: #cc0b41;
+    font-weight: bold;
+}
+.QQ{
+    color: #0bb5cc;
+    font-weight: bold;
+}
+.gpt{
+    color: #0bcc7f;
+    font-weight: bold;
 }
