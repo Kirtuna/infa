@@ -20,7 +20,7 @@ hr{
     margin: 50px 20px;
 }
 .bd{
-    padding: 40px;
+    padding: 10px 40px;
 }
 table{
     border-radius: 10px;
@@ -56,5 +56,6 @@ td{
 .zag4{
     background-color: powderblue;
     padding: 0;
-    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
