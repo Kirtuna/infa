@@ -11,7 +11,14 @@ h2{
     font-family: Calibri,serif;
     color: black;
 }
-
+h4{
+    font-family: Calibri,serif;
+    color: black;
+}
+hr{
+    color: black;
+    margin: 50px 20px;
+}
 .bd{
     padding: 40px;
 }
