@@ -8,8 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d7c7925-0956-452e-ba75-cc52849a7c22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site3.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IMG/site5.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702911049957</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final changes?">
+      <option name="closed" value="true" />
+      <created>1702912455015</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702912455015</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +177,7 @@
     <MESSAGE value=",f,f" />
     <MESSAGE value="Table is add" />
     <MESSAGE value="links, materials on site5.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="links, materials on site5.html" />
+    <MESSAGE value="final changes?" />
+    <option name="LAST_COMMIT_MESSAGE" value="final changes?" />
   </component>
 </project>
