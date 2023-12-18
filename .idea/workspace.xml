@@ -7,12 +7,9 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7c7925-0956-452e-ba75-cc52849a7c22" name="Changes" comment="">
+    <list default="true" id="0d7c7925-0956-452e-ba75-cc52849a7c22" name="Changes" comment="fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site2.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site4.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site5.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/site3.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,7 @@
     <option name="BRANCH" value="kaivix" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="kaivix" />
@@ -84,6 +82,7 @@
       <updated>1701616749422</updated>
       <workItem from="1702734632641" duration="553000" />
       <workItem from="1702747923340" duration="726000" />
+      <workItem from="1702905891362" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary=",f,f">
       <option name="closed" value="true" />
