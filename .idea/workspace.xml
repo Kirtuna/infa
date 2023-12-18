@@ -9,8 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0d7c7925-0956-452e-ba75-cc52849a7c22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site5.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/site3.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/site4.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702908140430</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="links, materials on site5.html">
+      <option name="closed" value="true" />
+      <created>1702909326567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702909326567</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=",f,f" />
     <MESSAGE value="Table is add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Table is add" />
+    <MESSAGE value="links, materials on site5.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="links, materials on site5.html" />
   </component>
 </project>
