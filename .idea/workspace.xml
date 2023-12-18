@@ -9,12 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0d7c7925-0956-452e-ba75-cc52849a7c22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/another.css" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/another.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site2.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site3.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/site4.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IMG/site5.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/site5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702826694630</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Table is add">
+      <option name="closed" value="true" />
+      <created>1702908140430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702908140430</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
